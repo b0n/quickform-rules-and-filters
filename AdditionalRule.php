@@ -1,6 +1,6 @@
 <?php
 /**
- * Kana filters for HTML_QuickForm
+ * Additional Rule for HTML_QuickForm
  *
  */
 class HTML_QuickForm_AdditionalRule
